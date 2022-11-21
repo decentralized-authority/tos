@@ -1,4 +1,4 @@
-## Privacy Policy of nodepilot.tech
+# Privacy Policy of nodepilot.tech
 This Website collects some Personal Data from its Users.
 
 Users may be subject to different protection standards and broader standards may therefore apply to some. In order to learn more about the protection criteria, Users can refer to the applicability section.
@@ -9,7 +9,7 @@ This document contains a section dedicated to Brazilian Users and their privacy 
 
 This document can be printed for reference by using the print command in the settings of any browser.
 
-### Owner and Data Controller
+## Owner and Data Controller
 
 Phaos, LLC d/b/a Decentralized Authority
 
@@ -19,7 +19,7 @@ Lake Mary, FL 32746
 
 **Owner contact email:** shane@decentralizedauthority.com
 
-### Types of Data collected
+## Types of Data collected
 Among the types of Personal Data that this Website collects, by itself or through third parties, there are: Usage Data; Trackers.
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
@@ -34,13 +34,13 @@ Any use of Cookies – or of other tracking tools – by this Website or by the 
 
 Users are responsible for any third-party Personal Data obtained, published or shared through this Website and confirm that they have the third party's consent to provide the Data to the Owner.
 
-### Mode and place of processing the Data
-#### Methods of processing
+## Mode and place of processing the Data
+### Methods of processing
 The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
 
 The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Website (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
 
-#### Legal basis of processing
+### Legal basis of processing
 The Owner may process Personal Data relating to Users if one of the following applies:
 * Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
 * provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
@@ -50,7 +50,7 @@ The Owner may process Personal Data relating to Users if one of the following ap
 
 In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-#### Place
+### Place
 The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
 
 Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
@@ -59,7 +59,7 @@ If broader protection standards are applicable, Users are also entitled to learn
 
 If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
 
-#### Retention time
+### Retention time
 
 Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
 Therefore:
@@ -70,17 +70,17 @@ The Owner may be allowed to retain Personal Data for a longer period whenever th
 
 Once the retention period expires, Personal Data shall be deleted. Therefore, the right of access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
 
-### The purposes of processing
+## The purposes of processing
 The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Displaying content from external platforms.
 
 For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
 
-### Detailed information on the processing of Personal Data
+## Detailed information on the processing of Personal Data
 
 Personal Data is collected for the following purposes and using the following services:
 * Displaying content from external platforms
 
-### The rights of Users
+## The rights of Users
 Users may exercise certain rights regarding their Data processed by the Owner.
 
 Users entitled to broader protection standards may exercise any of the rights described below. In all other cases, Users may inquire with the Owner to find out which rights apply to them.
@@ -96,15 +96,15 @@ In particular, Users have the right to do the following:
 * **Receive their Data and have it transferred to another controller.** Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User's consent, on a contract which the User is part of or on pre-contractual obligations thereof.
 * **Lodge a complaint.** Users have the right to bring a claim before their competent data protection authority.
 
-#### Details about the right to object to processing
+### Details about the right to object to processing
 Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
 
 Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
 
-#### How to exercise these rights
+### How to exercise these rights
 Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
 
-### Applicability of broader protection standards
+## Applicability of broader protection standards
 While most provisions of this document concern all Users, some provisions expressly only apply if the processing of Personal Data is subject to broader protection standards.
 
 Such broader protection standards apply when the processing:
@@ -113,35 +113,35 @@ Such broader protection standards apply when the processing:
 * concerns the Personal Data of Users who are in the EU and is related to the offering of paid or unpaid goods or services, to such Users;
 * concerns the Personal Data of Users who are in the EU and allows the Owner to monitor such Users’ behavior taking place in the EU.
 
-### Cookie Policy
+## Cookie Policy
 This Website uses Trackers. To learn more, the User may consult the [Cookie Policy](https://www.iubenda.com/privacy-policy/20564943/cookie-policy?ifr=true&height=755&newmarkup=yes&an=no).
 
-### Additional information about Data collection and processing
-#### Legal action
+## Additional information about Data collection and processing
+### Legal action
 The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Website or the related Services.
 
 The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
 
-#### Additional information about User's Personal Data
+### Additional information about User's Personal Data
 In addition to the information contained in this privacy policy, this Website may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
 
-#### System logs and maintenance
+### System logs and maintenance
 For operation and maintenance purposes, this Website and any third-party services may collect files that record interaction with this Website (System logs) use other Personal Data (such as the IP Address) for this purpose.
 
-#### Information not contained in this policy
+### Information not contained in this policy
 More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
 
-#### How “Do Not Track” requests are handled
+### How “Do Not Track” requests are handled
 This Website does not support “Do Not Track” requests.
 
 To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
 
-#### Changes to this privacy policy
+### Changes to this privacy policy
 The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within this Website and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
 
 Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
 
-### Information for Californian consumers
+## Information for Californian consumers
 
 This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the business running this Website and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
 
@@ -149,21 +149,21 @@ The provisions contained in this section apply to all Users who are consumers re
 
 This part of the document uses the term “personal information“ as it is defined in The California Consumer Privacy Act (CCPA).
 
-#### Categories of personal information collected, disclosed or sold
+### Categories of personal information collected, disclosed or sold
 In this section we summarize the categories of personal information that we've collected, disclosed or sold and the purposes thereof. **You can read about these activities in detail in the section titled “Detailed information on the processing of Personal Data” within this document.**
 
-##### Information we collect: the categories of personal information we collect
+#### Information we collect: the categories of personal information we collect
 
 We have collected the following categories of personal information about you: internet information.
 
 We will not collect additional categories of personal information without notifying you.
 
-##### How we collect information: what are the sources of the personal information we collect?
+#### How we collect information: what are the sources of the personal information we collect?
 We collect the above mentioned categories of personal information, either directly or indirectly, from you when you use this Website.
 
 For example, you directly provide your personal information when you submit requests via any forms on this Website. You also provide personal information indirectly when you navigate this Website, as personal information about you is automatically observed and collected. Finally, we may collect your personal information from third parties that work with us in connection with the Service or with the functioning of this Website and features thereof.
 
-##### How we use the information we collect: sharing and disclosing of your personal information with third parties for a business purpose
+#### How we use the information we collect: sharing and disclosing of your personal information with third parties for a business purpose
 
 We may disclose the personal information we collect about you to a third party for business purposes. In this case, we enter a written agreement with such third party that requires the recipient to both keep the personal information confidential and not use it for any purpose(s) other than those necessary for the performance of the agreement.
 
@@ -171,30 +171,30 @@ We may also disclose your personal information to third parties when you explici
 
 To find out more about the purposes of processing, please refer to the relevant section of this document.
 
-##### Sale of your personal information
+#### Sale of your personal information
 For our purposes, the word “sale” means any “selling, renting, releasing, disclosing, disseminating, making available, transferring or otherwise communicating orally, in writing, or by electronic means, a consumer's personal information by the business to **another business or a third party, for monetary or other valuable consideration**”.
 
 This means that, for example, a sale can happen whenever an application runs ads, or makes statistical analyses on the traffic or views, or simply because it uses tools such as social network plugins and the like.
 
-##### Your right to opt out of the sale of personal information
+#### Your right to opt out of the sale of personal information
 
 You have the right to opt out of the sale of your personal information. This means that whenever you request us to stop selling your data, we will abide by your request.
 
 Such requests can be made freely, at any time, without submitting any verifiable request, simply by following the instructions below.
 
-##### Instructions to opt out of the sale of personal information
+#### Instructions to opt out of the sale of personal information
 
 If you’d like to know more, or exercise your right to opt out in regard to all the sales carried out by this Website, both online and offline, you can contact us for further information using the contact details provided in this document.
 
-##### What are the purposes for which we use your personal information?
+#### What are the purposes for which we use your personal information?
 We may use your personal information to allow the operational functioning of this Website and features thereof (“business purposes”). In such cases, your personal information will be processed in a fashion necessary and proportionate to the business purpose for which it was collected, and strictly within the limits of compatible operational purposes.
 
 We may also use your personal information for other reasons such as for commercial purposes (as indicated within the section “Detailed information on the processing of Personal Data” within this document), as well as for complying with the law and defending our rights before the competent authorities where our rights and interests are threatened or we suffer an actual damage.
 
 We will not use your personal information for different, unrelated, or incompatible purposes without notifying you.
 
-#### Your California privacy rights and how to exercise them
-##### The right to know and to portability
+### Your California privacy rights and how to exercise them
+#### The right to know and to portability
 You have the right to request that we disclose to you:
 
 * the categories and sources of the personal information that we collect about you, the purposes for which we use your information and with whom such information is shared;
@@ -206,12 +206,12 @@ The disclosure described above will be limited to the personal information colle
 
 If we deliver our response electronically, the information enclosed will be "portable", i.e. delivered in an easily usable format to enable you to transmit the information to another entity without hindrance – provided that this is technically feasible.
 
-##### The right to request the deletion of your personal information
+#### The right to request the deletion of your personal information
 You have the right to request that we delete any of your personal information, subject to exceptions set forth by the law (such as, including but not limited to, where the information is used to identify and repair errors on this Website, to detect security incidents and protect against fraudulent or illegal activities, to exercise certain rights etc.).
 
 If no legal exception applies, as a result of exercising your right, we will delete your personal information and direct any of our service providers to do so.
 
-##### How to exercise your rights
+#### How to exercise your rights
 
 To exercise the rights described above, you need to submit your verifiable request to us by contacting us via the details provided in this document.
 
@@ -228,7 +228,7 @@ If you are an adult, you can make a verifiable request on behalf of a minor unde
 
 You can submit a maximum number of 2 requests over a period of 12 months.
 
-##### How and when we are expected to handle your request
+#### How and when we are expected to handle your request
 We will confirm receipt of your verifiable request within 10 days and provide information about how we will process your request.
 
 We will respond to your request within 45 days of its receipt. Should we need more time, we will explain to you the reasons why, and how much more time we need. In this regard, please note that we may take up to 90 days to fulfill your request.
@@ -239,14 +239,14 @@ Should we deny your request, we will explain you the reasons behind our denial.
 
 We do not charge a fee to process or respond to your verifiable request unless such request is manifestly unfounded or excessive. In such cases, we may charge a reasonable fee, or refuse to act on the request. In either case, we will communicate our choices and explain the reasons behind it.
 
-### Information for Users residing in Brazil
+## Information for Users residing in Brazil
 This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the entity running this Website and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
 
 The provisions contained in this section apply to all Users who reside in Brazil, according to the "Lei Geral de Proteção de Dados" (Users are referred to below, simply as “you”, “your”, “yours”). For such Users, these provisions supersede any other possibly divergent or conflicting provisions contained in the privacy policy.
 
 This part of the document uses the term “personal information“ as it is defined in the Lei Geral de Proteção de Dados (**LGPD**).
 
-#### The grounds on which we process your personal information
+### The grounds on which we process your personal information
 We can process your personal information solely if we have a legal basis for such processing. Legal bases are as follows:
 
 * your consent to the relevant processing activities;
@@ -262,16 +262,16 @@ We can process your personal information solely if we have a legal basis for suc
 
 To find out more about the legal bases, you can contact us at any time using the contact details provided in this document.
 
-#### Categories of personal information processed
+### Categories of personal information processed
 
 To find out what categories of your personal information are processed, you can read the section titled “Detailed information on the processing of Personal Data” within this document.
 
-#### Why we process your personal information
+### Why we process your personal information
 To find out why we process your personal information, you can read the sections titled “Detailed information on the processing of Personal Data” and “The purposes of processing” within this document.
 
-#### Your Brazilian privacy rights, how to file a request and our response to your requests
+### Your Brazilian privacy rights, how to file a request and our response to your requests
 
-##### Your Brazilian privacy rights
+#### Your Brazilian privacy rights
 You have the right to:
 
 * obtain confirmation of the existence of processing activities on your personal information;
@@ -290,10 +290,10 @@ You have the right to:
 
 You will never be discriminated against, or otherwise suffer any sort of detriment, if you exercise your rights.
 
-##### How to file your request
+#### How to file your request
 You can file your express request to exercise your rights free from any charge, at any time, by using the contact details provided in this document, or via your legal representative.
 
-##### How and when we will respond to your request
+#### How and when we will respond to your request
 We will strive to promptly respond to your requests.
 
 In any case, should it be impossible for us to do so, we’ll make sure to communicate to you the factual or legal reasons that prevent us from immediately, or otherwise ever, complying with your requests. In cases where we are not processing your personal information, we will indicate to you the physical or legal person to whom you should address your requests, if we are in the position to do so.
@@ -306,7 +306,7 @@ In the latter case, we’ll respond within 15 days from the time of your request
 
 In the event that you file a **rectification, deletion, anonymization or personal information blocking** request, we will make sure to immediately communicate your request to other parties with whom we have shared your personal information in order to enable such third parties to also comply with your request – except in cases where such communication is proven impossible or involves disproportionate effort on our side.
 
-#### Transfer of personal information outside of Brazil permitted by the law
+### Transfer of personal information outside of Brazil permitted by the law
 We are allowed to transfer your personal information outside of the Brazilian territory in the following cases:
 
 * when the transfer is necessary for international legal cooperation between public intelligence, investigation and prosecution bodies, according to the legal means provided by the international law;
