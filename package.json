@@ -1,0 +1,16 @@
+{
+  "name": "tos",
+  "version": "1.0.0",
+  "description": "Terms of Service",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decentralized-authority/tos.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/decentralized-authority/tos/issues"
+  },
+  "homepage": "https://github.com/decentralized-authority/tos#readme"
+}
