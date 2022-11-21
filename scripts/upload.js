@@ -52,6 +52,11 @@ const upload = (source, key) => new Promise((resolve, reject) => {
         key: 'w3bcloud_tos.md',
         htmlKey: 'w3bcloud_tos.html',
       },
+      {
+        source: 'privacy_policy.md',
+        key: 'privacy_policy.md',
+        htmlKey: 'privacy_policy.html',
+      },
     ];
     for(const { source, key, htmlKey } of files) {
       const contents = await fs.readFile(source, 'utf8');
