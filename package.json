@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Terms of Service",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "upload": "node ./scripts/upload"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/decentralized-authority/tos.git"
@@ -12,5 +14,10 @@
   "bugs": {
     "url": "https://github.com/decentralized-authority/tos/issues"
   },
-  "homepage": "https://github.com/decentralized-authority/tos#readme"
+  "homepage": "https://github.com/decentralized-authority/tos#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0",
+    "markdown-it": "^13.0.1",
+    "s3": "https://github.com/rBurgett/node-s3-client.git"
+  }
 }
