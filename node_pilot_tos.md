@@ -109,41 +109,41 @@ By accessing or using the Websites, Softwares, and Services, you agree to be bou
 
 2. **Unacceptable Use.** You must not, and must not permit any person to: 
 
-1. interfere or violate the legal rights (such as rights of privacy and publicity) of others or  violate others’ use or enjoyment of the Websites and Services; 
+   1. interfere or violate the legal rights (such as rights of privacy and publicity) of others or  violate others’ use or enjoyment of the Websites and Services; 
 
-2. attempt to do anything that does or could interfere with, disrupt, negatively affect or inhibit  other users from using the Website and Services or links on the Websites or that could  damage, disable, overburden or impair the functioning of the Websites, Services or our  servers or any networks connected to any of our servers in any manner; 
+   2. attempt to do anything that does or could interfere with, disrupt, negatively affect or inhibit  other users from using the Website and Services or links on the Websites or that could  damage, disable, overburden or impair the functioning of the Websites, Services or our  servers or any networks connected to any of our servers in any manner; 
 
-3. create a false identity for the purpose of misleading or deceiving us or others or fraudulently  or otherwise misrepresent yourself to be another person or a representative of another entity  including, but not limited to, an authorized user of the Websites or our representatives, or  fraudulently or otherwise misrepresent that you have an affiliation with a person, entity or  group; 
+   3. create a false identity for the purpose of misleading or deceiving us or others or fraudulently  or otherwise misrepresent yourself to be another person or a representative of another entity  including, but not limited to, an authorized user of the Websites or our representatives, or  fraudulently or otherwise misrepresent that you have an affiliation with a person, entity or  group; 
 
-4. mislead or deceive us, our representatives and any third parties who may rely on the  information provided by you, by providing inaccurate or false information, which includes  omissions of information; 
+   4. mislead or deceive us, our representatives and any third parties who may rely on the  information provided by you, by providing inaccurate or false information, which includes  omissions of information; 
 
-5. disguise the origin of any material transmitted via the Websites and Services (whether by  forging message/packet headers or otherwise manipulating normal identification  information); 
+   5. disguise the origin of any material transmitted via the Websites and Services (whether by  forging message/packet headers or otherwise manipulating normal identification  information); 
 
-6. violate, infringe or misappropriate any intellectual property right of any person (such as  copyright, trademarks, patents, or trade secrets, or other proprietary rights of any party) or  commit a tort; 
+   6. violate, infringe or misappropriate any intellectual property right of any person (such as  copyright, trademarks, patents, or trade secrets, or other proprietary rights of any party) or  commit a tort; 
 
-7. upload files that contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted  files, or any other similar software or programs that may damage the operation of another’s  computer or property; 
+   7. upload files that contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted  files, or any other similar software or programs that may damage the operation of another’s  computer or property; 
 
-8. access any content, area or functionality of the Websites and Services that you are  prohibited or restricted from accessing or attempt to bypass or circumvent measures  employed to prevent or limit your access to any content, area or functionality of the  Websites or Services; 
+   8. access any content, area or functionality of the Websites and Services that you are  prohibited or restricted from accessing or attempt to bypass or circumvent measures  employed to prevent or limit your access to any content, area or functionality of the  Websites or Services; 
 
-9. obtain unauthorized access to or interfere with the performance of the servers which host  the Websites and Services or any servers on any associated networks or otherwise fail to  comply with any policies or procedures relating to the use of those servers; 
+   9. obtain unauthorized access to or interfere with the performance of the servers which host  the Websites and Services or any servers on any associated networks or otherwise fail to  comply with any policies or procedures relating to the use of those servers; 
 
-10. gain unauthorized access to any services or products, other accounts, computer systems, or  networks connected to any of our servers through hacking, password mining, or any other  means; 
+   10. gain unauthorized access to any services or products, other accounts, computer systems, or  networks connected to any of our servers through hacking, password mining, or any other  means; 
 
-11. obtain any materials or information through any means not intentionally made available  through the Websites and Services; 
+   11. obtain any materials or information through any means not intentionally made available  through the Websites and Services; 
 
-12. harvest or otherwise collect, whether aggregated or otherwise, data about others including  email addresses and/or distribute or sell such data in any manner; 
+   12. harvest or otherwise collect, whether aggregated or otherwise, data about others including  email addresses and/or distribute or sell such data in any manner; 
 
-13. use any part of the Websites and Services other than for its intended purpose; 
+   13. use any part of the Websites and Services other than for its intended purpose; 
 
-14. use any automated means or form of scraping or extracting any data, content or information  on the Websites and Services unless it is expressly authorized by us; 
+   14. use any automated means or form of scraping or extracting any data, content or information  on the Websites and Services unless it is expressly authorized by us; 
 
-15. engage in any act that undermines or compromises the security and integrity of the  computer, communication systems, networks, software application, or other computing  devices used in connection with the Websites and Services; 
+   15. engage in any act that undermines or compromises the security and integrity of the  computer, communication systems, networks, software application, or other computing  devices used in connection with the Websites and Services; 
 
-16. monitor traffic on the Websites and Services, or permit anyone to do so;
+   16. monitor traffic on the Websites and Services, or permit anyone to do so;
 
-17. engage in or promote any activity that violates this Agreement; and
+   17. engage in or promote any activity that violates this Agreement; and
 
-18. attempt to do any of the foregoing. 
+   18. attempt to do any of the foregoing. 
 
 ### No Solicitation or Advice
 
