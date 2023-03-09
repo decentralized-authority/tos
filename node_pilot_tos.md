@@ -63,7 +63,7 @@ By accessing or using the Websites, Softwares, and Services, you agree to be bou
 
 ### Nature of the Service
 
-1. Node Pilot Cloud is a **noncustodial service**. You are solely responsible for protecting and  maintaining all information pertaining to your account, including but not limited to the private keys  of your nodes; 
+1. Node Pilot is a **noncustodial service**. You are solely responsible for protecting and  maintaining all information pertaining to your account, including but not limited to the private keys  of your nodes; 
 
 2. **Backups** - You are solely responsible for backing up and safely storing your config settings and  files, and your password(s) (The Node Pilot GUI makes it easy to download your config files which  are the backup for your nodes); 
 
@@ -71,15 +71,15 @@ By accessing or using the Websites, Softwares, and Services, you agree to be bou
 
 4. We are not responsible for any **funds or wallets addresses**; 
 
-5. We are not responsible for any **unauthorized access** to your accounts. It is the user’s sole  responsibility to ensure that no one accesses their Node Pilot instance without permission. We do  not have access to your Node Pilot account so we cannot be responsible for who accesses the  account; 
+5. We are not responsible for any **unauthorized access** to your accounts. It is the user’s sole  responsibility to ensure that no one accesses their Node Pilot software or user account without permission. In some cases we do  not have access to your Node Pilot account so we cannot be responsible for who accesses the  account; 
 
 6. We are not responsible for **software performance**. All software and services are provided as-is  and metrics shared in marketing materials are not guarantees of similar performance; 
 
-7. We are not responsible for **uptime**. Node Pilot Cloud may use third party servers or services, for  which we are not responsible and have no control. All users must accept and agree to be bound by  the separate Terms of Service of such third parties;  
+7. We are not responsible for **uptime**. Node Pilot may use third party servers or services, for  which we are not responsible and have no control. All users must accept and agree to be bound by  the separate Terms of Service of such third parties;  
 
-8. We do not guarantee **access** to Node Pilot Cloud services. Users should always have backups of  their configs and private keys in-case of loss of access to Node Pilot Cloud 
+8. We do not guarantee **access** to Node Pilot services. Users should always have backups of  their configs and private keys in-case of loss of access to Node Pilot Cloud 
 
-9. We do not guarantee any **node rewards** from nodes deployed on Node Pilot Cloud. We do not  guarantee any profits or gains from users’ activities; 
+9. We do not guarantee any **node rewards** from nodes deployed on Node Pilot. We do not  guarantee any profits or gains from users’ activities; 
 
 10. Users are solely responsible for complying with their own countries’ laws, including but not limited  to laws relating to tax reporting. 
 
