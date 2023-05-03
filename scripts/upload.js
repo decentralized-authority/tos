@@ -48,14 +48,14 @@ const upload = (source, key) => new Promise((resolve, reject) => {
         htmlKey: 'tos.html',
       },
       {
-        source: 'w3bcloud_tos.md',
-        key: 'w3bcloud_tos.md',
-        htmlKey: 'w3bcloud_tos.html',
-      },
-      {
         source: 'privacy_policy.md',
         key: 'privacy_policy.md',
         htmlKey: 'privacy_policy.html',
+      },
+      {
+        source: 'shared_services_tos.md',
+        key: 'shared_services_tos.md',
+        htmlKey: 'shared_services_tos.html',
       },
     ];
     for(const { source, key, htmlKey } of files) {
