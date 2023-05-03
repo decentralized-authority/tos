@@ -208,4 +208,4 @@ If you have any questions or feedback about this Agreement, please contact us at
 
 Decentralized Authority **shane@decentralizedauthority.com**
 
-Date of Last Update: April 3, 2023
+Date of Last Update: May 3, 2023
